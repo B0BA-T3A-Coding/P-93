@@ -20,7 +20,10 @@ background-image: linear-gradient(to right top, #fdffe2, #fff6c6, #fff2d2);
 
 .login_div
 {
-	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+	background: rgba(255,255,255,0.8);
+	float: none;
+	border-radius: 15px;
+	margin-left: 380px;
 }
 
 .logo
@@ -34,5 +37,7 @@ background-image: linear-gradient(to right top, #fdffe2, #fff6c6, #fff2d2);
 }
 #chat{
 	width:400px;
-	height: 400px;
+	height: 355px;
+	margin-left: 165px;
+	border-radius: 40px
 }
